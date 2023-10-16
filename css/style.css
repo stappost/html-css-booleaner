@@ -37,7 +37,7 @@
 .bolder{
     margin-top: 20px;
     font-weight: 550;
-    width: auto;
+    width: 1000px;
 }
 
 .highlighted{
@@ -49,3 +49,24 @@
     padding-left: 20px;
 }
 
+.table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+  
+.white-bg_blue{
+    text-align: left;
+    background-color: rgb(42, 172, 211);
+    color: white;
+}
+.bg_azure{
+    background-color: rgb(121, 250, 250);
+}
+
+.medium{
+    width: 250px;
+    
+}
+ .large{
+    width: 500px;
+ }
