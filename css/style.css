@@ -16,6 +16,9 @@
     width: 200px;
     padding: 40px 0 10px 10px;
 }
+main{
+    padding-left: 10px;
+}
 
 #main-title{
     margin-top: 10px;
